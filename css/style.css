@@ -1,4 +1,8 @@
-.menu > ul {list-stule: none;
-
-
+.first_screen {
+position: absolute;
+width: 1920px;
+height: 700px;
+left: 0px;
+top: 0px;
+background: #215cd1;
 }
